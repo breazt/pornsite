@@ -582,7 +582,7 @@ data-animation-role="header-element"
 >
 
 <div class="header-title-text">
-<a id="site-title" href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/dytrxbfnl/image/upload/v1708050916/banenr/dnqe6LY_zar72h.png?v=1702892117&amp;width=600" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 822px; width: 553px; height: 138px; margin: 45.5px 0px;" alt="SLOT1131 💳 11 AKUN SLOT GACOR SERVER THAILAND DENGAN TIPS PANDUAN BERMAIN DENGAN CEPAT DAN GAMPANG MENANG!" jsname="kn3ccd" aria-hidden="false"></a>
+<a id="site-title" href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/dytrxbfnl/image/upload/v1708050916/banenr/dnqe6LY_zar72h.png?v=1702892117&amp;width=600" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 822px; width: 553px; height: 138px; margin: 45.5px 0px;" alt="" jsname="kn3ccd" aria-hidden="false"></a>
 </div>
 
 
